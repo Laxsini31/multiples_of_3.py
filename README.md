@@ -1,1 +1,6 @@
-# multiples_of_3.py
+for i in range(10,51):
+    if i%3==0:
+        print(i,end=" ")
+        
+OUTPUT:
+12 15 18 21 24 27 30 33 36 39 42 45 48
